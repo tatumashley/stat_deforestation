@@ -1,0 +1,13 @@
+name: deforestation
+title: deforestation
+username: dmyh20-tatumashley
+account: dmyh20-tatumashley
+server: posit.cloud
+hostUrl: https://api.posit.cloud/v1
+appId: 8065091
+bundleId: 8523453
+url: https://posit.cloud/content/8065091
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: tree.png
